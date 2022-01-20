@@ -34,7 +34,7 @@ Available Grasshooper components:\
 ![Available Grasshooper components](./img/Renderer.png)
 
 Components dealing with spectral absorption for each mesh face:\
-<img src="https://github.com/opasquetdotfr/Duerer/blob/126338f618bfb2bced6c7416c2d9f52af4bfd289/img/Material_1.png" width=50% height=50%>
+<img src="https://github.com/opasquetdotfr/Duerer/blob/5de80a9b58fbd3efe37252ab51d34eeb8fc3719c/img/Material_1.png" width=50% height=50%>
 
 
 ## Project Status
