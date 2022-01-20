@@ -57,4 +57,4 @@ pybind11
 
 
 ## Contact
-Created by [@opasquetdotfr](https://www.opasquet.fr).
+Created by [Olivier Pasquet](https://www.opasquet.fr).
