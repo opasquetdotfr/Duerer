@@ -12,7 +12,7 @@ This is an early experimental version.
 
 The first use would consist on:
 - generating, or importing, a tree of meshes.
-- setting meshes acoustic properties and redering parameters (those do not have to be realistic and outcomes can be used as a virtual acoustic or synthesis tool).
+- setting meshes acoustic properties and rendering parameters (those do not have to be realistic and outcomes can be used as a virtual acoustic or synthesis tool).
 - place virtual sources and microphones into those meshes.
 - (define directivities for sources and microphones).
 - define sound sources.
