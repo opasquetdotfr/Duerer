@@ -4,11 +4,11 @@
 
 Audio synthesis and virtual acoustics for [Rhino](https://www.rhino3d.com) [Grasshooper](https://www.rhino3d.com/6/new/grasshopper/) based on image source model room simulation.\
 For future more information see [here](https://www.opasquet.fr/spatial-computing-composition/).\
-This release consists on python code runing underneath and collection of [Grasshooper](https://www.rhino3d.com/6/new/grasshopper/).
+This release consists on python code runing underneath a collection of [Grasshooper](https://www.rhino3d.com/6/new/grasshopper/) components.
 
 This is an early experimental version.
 
-*Duerer* is part of a research done at the Institute for [Institute for Computer Music and Sound Technology](https://www.zhdk.ch/en/research/icst) of the [Zurich University of the Arts Zurich University of the Arts](https://www.zhdk.ch).
+*Duerer* is part of a research done at the [Institute for Computer Music and Sound Technology](https://www.zhdk.ch/en/research/icst) of the [Zurich University of the Arts](https://www.zhdk.ch).
 
 The first use would consist on:
 - generating, or importing, a tree of meshes.
@@ -16,7 +16,7 @@ The first use would consist on:
 - place virtual sources and microphones into those meshes.
 - (define directivities for sources and microphones).
 - define sound sources.
-- rendering as a multichannel [Impulse response](https://en.wikipedia.org/wiki/Impulse_response) file (each channel is a microphone) and possibly a convolved file made with sound sources.
+- rendering as a multichannel [impulse response](https://en.wikipedia.org/wiki/Impulse_response) file (each channel is a microphone) and possibly a convolved file made with sound sources.
 
 One possible use would consist on rendering multichannel impulse responses from a beam of microphones or a virtual eigenmike; thus playing with directivity, delays and virtual [ambisonics](https://en.wikipedia.org/wiki/Ambisonics).\
 Another use would be using specific meshes to generate physical models audio synthesis from finite elements method.\
