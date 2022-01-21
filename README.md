@@ -33,7 +33,7 @@ I also used for form finding using genetic algorithm solvers like [galapagos](ht
 Available Grasshooper components:\
 ![Available Grasshooper components](./img/Renderer.png)
 
-Components dealing with spectral absorption for each mesh face:\
+Components dealing with spectral absorption for each mesh face:
 <center><img src="https://github.com/opasquetdotfr/Duerer/blob/5de80a9b58fbd3efe37252ab51d34eeb8fc3719c/img/Material_1.png" width=50% height=50%></center>
 
 
