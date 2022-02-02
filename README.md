@@ -20,7 +20,7 @@ The first use would consist on:
 
 One possible use would consist on rendering multichannel impulse responses from a beam of microphones or a virtual eigenmike; thus playing with directivity, delays and virtual [ambisonics](https://en.wikipedia.org/wiki/Ambisonics).\
 Another use would be using specific meshes to generate physical models audio synthesis from finite elements method.\
-I also used for form finding using genetic algorithm solvers like [galapagos](http://climatefacade.com/genetic-algorithm-solver-galapagos/) for instance.
+It can for instance be used for form finding using genetic algorithm solvers like [galapagos](http://climatefacade.com/genetic-algorithm-solver-galapagos/) for instance. That is a part of that research at ICST.
 
 
 ## Technologies Used
