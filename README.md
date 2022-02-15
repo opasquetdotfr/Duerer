@@ -1,4 +1,4 @@
-# Duerer
+ # Duerer
 
 ![TOI-1842_b_zoom_2](./img/TOI-1842_b_zoom_2.jpg)
 
@@ -53,7 +53,7 @@ pybind11
   ```
 
 ## Acknowledgements
-- Many thanks to Jasch, Toro-Pérez Germán for their support and Robin Scheibler for his tremendous work on Pyroomacoustics. I would have never done that work without the support of the [Zurich University of the Arts Zurich University of the Arts](https://www.zhdk.ch).
+- Many thanks to Jasch, Toro-Pérez Germán for their support and Robin Scheibler for his tremendous work on Pyroomacoustics. I would have never done that work without the support of [ICST](https://www.zhdk.ch/en/research/icst) at the [Zurich University of the Arts Zurich University of the Arts](https://www.zhdk.ch).
 
 
 ## Contact
